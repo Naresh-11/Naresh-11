@@ -19,4 +19,4 @@ Let's join forces to create a more secure and user-friendly digital landscape!
 
 ---
 
-**Cyber Security Researcher | Ethical Hacker | Frontend Developer Collaborator**
+**Cyber Security Researcher | Ethical Hacker | Frontend Developer**
